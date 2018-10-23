@@ -1,2 +1,3 @@
 # hello-world
-just for test
+Hi
+I like project management. And now I try to use github.
